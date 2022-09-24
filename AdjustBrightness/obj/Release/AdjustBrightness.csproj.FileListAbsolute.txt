@@ -1,0 +1,6 @@
+C:\GitHub\AdjustBrightness\AdjustBrightness\bin\Release\AdjustBrightness.exe.config
+C:\GitHub\AdjustBrightness\AdjustBrightness\bin\Release\AdjustBrightness.exe
+C:\GitHub\AdjustBrightness\AdjustBrightness\bin\Release\AdjustBrightness.pdb
+C:\GitHub\AdjustBrightness\AdjustBrightness\obj\Release\AdjustBrightness.csproj.CoreCompileInputs.cache
+C:\GitHub\AdjustBrightness\AdjustBrightness\obj\Release\AdjustBrightness.exe
+C:\GitHub\AdjustBrightness\AdjustBrightness\obj\Release\AdjustBrightness.pdb
